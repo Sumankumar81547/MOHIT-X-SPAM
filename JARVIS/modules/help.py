@@ -15,7 +15,7 @@ HELP_BUTTON = [
     ],
     [
       Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/JARVIS_V_SUPPORT"),
-      Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Dora_Hub")
+      Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/R_I_S_I_NG")
     ]
   ]
 
@@ -60,7 +60,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© @JARVIS_V2**
+**© @Mohitkumar076**
 """
 
                  
@@ -92,7 +92,7 @@ raid_msg = f"""
   2) {hl}qraid <count> <reply to user>
 
 
-**© @JARVIS_V2**
+**© @Mohitkumar076**
 """
 
 spam_msg = f"""
@@ -109,7 +109,7 @@ spam_msg = f"""
   1) {hl}hang <counter>
 
 
-** © @JARVIS_V2**
+** © @Mohitkumar076**
 """                     
            
            
@@ -137,12 +137,12 @@ async def helpback(event):
               ],
               [
                 Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/JARVIS_V_SUPPORT"),
-                Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Dora_Hub")
+                Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/R_I_S_I_NG")
               ]
             ]
           )
     else:
-        await event.answer("ᴘᴀʜʟᴇ ᴊᴀʀᴠɪs ᴘᴀᴘᴀ sᴇ sᴜᴅᴏ ʟᴇʟᴏ 𖤍!! @JARVIS_V2", cache_time=0, alert=True)
+        await event.answer("ᴘᴀʜʟᴇ ᴊᴀʀᴠɪs ᴘᴀᴘᴀ sᴇ sᴜᴅᴏ ʟᴇʟᴏ 𖤍!! @Mohitkumar076", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
@@ -161,7 +161,7 @@ async def help_spam(event):
               buttons=[[Button.inline("< Back", data="help_back"),],],
               ) 
     else:
-        await event.answer("ᴘᴀʜʟᴇ ᴊᴀʀᴠɪs ᴘᴀᴘᴀ sᴇ sᴜᴅᴏ ʟᴇʟᴏ 𖤍 !! @JARVIS_V2", cache_time=0, alert=True)
+        await event.answer("ᴘᴀʜʟᴇ ᴊᴀʀᴠɪs ᴘᴀᴘᴀ sᴇ sᴜᴅᴏ ʟᴇʟᴏ 𖤍 !! @Mohitkumar076", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"raid"))
@@ -180,7 +180,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
           )
     else:
-        await event.answer("ᴘᴀʜʟᴇ ᴊᴀʀᴠɪs ᴘᴀᴘᴀ sᴇ sᴜᴅᴏ ʟᴇʟᴏ 𖤍 !! @JARVIS_V2", cache_time=0, alert=True)
+        await event.answer("ᴘᴀʜʟᴇ ᴊᴀʀᴠɪs ᴘᴀᴘᴀ sᴇ sᴜᴅᴏ ʟᴇʟᴏ 𖤍 !! @Mohitkumar076", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"extra"))
@@ -199,5 +199,5 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("ᴘᴀʜʟᴇ ᴊᴀʀᴠɪs ᴘᴀᴘᴀ sᴇ sᴜᴅᴏ ʟᴇʟᴏ 𖤍!! @JARVIS_V2", cache_time=0, alert=True)
+        await event.answer("ᴘᴀʜʟᴇ ᴊᴀʀᴠɪs ᴘᴀᴘᴀ sᴇ sᴜᴅᴏ ʟᴇʟᴏ 𖤍!! @Mohitkumar076", cache_time=0, alert=True)
 
