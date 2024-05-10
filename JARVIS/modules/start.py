@@ -38,9 +38,9 @@ async def start(event):
         TEXT += f"» **ᴊᴀʀᴠɪs V2 :** `M 1.8.31`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
-        await event.client.send_file("https://telegra.ph/file/ee9a464bb8c1a5277f6c3.jpg",)
+        await event.client.send_file(
               event.chat_id,
-                    "https://github.com/doraemon890/JARVIS-X-SPAM/assets/155803358/f30a5777-9823-45d0-9860-342eceadb774",
+                    "https://github.com/Sumankumar81547/MOHIT-X-SPAM/assets/155803358/f30a5777-9823-45d0-9860-342eceadb774",
                     caption=TEXT, 
                     buttons=START_BUTTON
                 )
