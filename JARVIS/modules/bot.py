@@ -24,7 +24,7 @@ async def ping(e):
         jarvis = await e.reply(f"ᴥ︎︎︎ 𝐉𝐀𝐑𝐕𝐈𝐒 ✔︎")
         end = datetime.now()
         mp = (end - start).microseconds / 1000
-        await jarvis.edit(f"[MOHIT 𝐈𝐒 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎  ](https://t.me/R_I_S_I_NG)[𝐅𝐔𝐂𝐊 𝐇𝐀𝐓𝐄𝐑𝐒 🥀](https://t.me/R_I_S_I_NG)🤖\n» `{mp} ᴍꜱ`")
+        await jarvis.edit(f"[MOHIT 𝐈𝐒 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎  ](https://t.me/masti_ka_group_dosto_ki_jaan)[𝐅𝐔𝐂𝐊 𝐇𝐀𝐓𝐄𝐑𝐒 🥀](https://t.me/masti_ka_group_dosto_ki_jaan)🤖\n» `{mp} ᴍꜱ`")
 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
