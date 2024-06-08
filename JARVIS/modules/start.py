@@ -9,7 +9,7 @@ START_BUTTON = [
     ],
     [
         Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/JARVIS_V_SUPPORT/5"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/R_I_S_I_NG")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/masti_ka_group_dosto_ki_jaan")
     ],
     [
         Button.url("• ʀᴇᴘᴏ •", "https://github.com/Sumankumar81547/MOHIT-X-SPAM")
