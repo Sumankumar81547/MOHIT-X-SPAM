@@ -15,7 +15,7 @@ HELP_BUTTON = [
     ],
     [
       Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/ROYAL_WORLD_84"),
-      Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/R_I_S_I_NG")
+      Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/masti_ka_group_dosto_ki_jaan")
     ]
   ]
 
@@ -137,7 +137,7 @@ async def helpback(event):
               ],
               [
                 Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/ROYAL_WORLD_84"),
-                Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/R_I_S_I_NG")
+                Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/masti_ka_group_dosto_ki_jaan")
               ]
             ]
           )
